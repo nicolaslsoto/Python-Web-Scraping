@@ -1,4 +1,4 @@
 # Python-Web-Scraping
 Multiple different projects written in Python
 
-Experimenting with web scraping, will keeping it ethical.
+Experimenting with web scraping, while keeping it ethical.
